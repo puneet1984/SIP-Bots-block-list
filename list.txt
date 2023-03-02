@@ -1,6 +1,6 @@
 # This blocklist helps pfsense restrict access to SIP/Voip/IP-PBX Server.
 # Curated from ip address hitting my server.
-# Last updated: 1st March 2023
+# Last updated: 2nd March 2023
 
 128.90.0.0/16
 45.120.0.0/16
